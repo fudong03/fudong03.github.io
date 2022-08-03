@@ -37,7 +37,7 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
   for Imbalanced Classification”. arXiv preprint (under review).
 - **Fudong Lin**, Yihe Zhang, Hao Wang, Brian Jalaian, Xu Yuan, and Nian-Feng Tzeng, "Towards Fast and Transferable Sparse Adversarial Attacks”, arXiv preprint (under review).
 - **Fudong Lin**, Xu Yuan, Lu Peng, and Nian-Feng Tzeng, "Cascade Variational Auto-Encoder for Hierarchical
-  Disentanglement”, arXiv preprint (under review).
+  Disentanglement”, In [CIKM 2022](https://www.cikm2022.org/).
 
 
 
