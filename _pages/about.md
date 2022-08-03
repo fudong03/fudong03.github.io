@@ -50,7 +50,7 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 # Patents
 
 - Mengjie Wang and **Fudong Lin**. 2020. "Video playing method, terminal, and computer readable storage medium".
-  CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](http://153.34.107.208:1522/TiffFile/Pdf/ECD554182A513CBFC1C3BC14F9CD12B65E60EC091046BCD0/CN201711212752-%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E6%96%B9%E6%B3%95%E3%80%81%E7%BB%88%E7%AB%AF%E5%92%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%AF%BB%E5%AD%98%E5%82%A8%E4%BB%8B%E8%B4%A8.pdf)]
+  CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https://patentimages.storage.googleapis.com/cc/18/48/9873970a1c3d21/CN108024144A.pdf)]
 
 
 
