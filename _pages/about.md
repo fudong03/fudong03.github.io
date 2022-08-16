@@ -16,7 +16,7 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 
 # Education
 
-- Ph.D. student in Computer Science, 2021 - present
+- Ph.D. student in Computer Science, 2021 Spring - present
 
   **University of Louisiana at Lafayette**,  Lafayette, LA
 
