@@ -33,6 +33,7 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 ### 2022
 
 - **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". arXiv preprint (under review).
+- Yihe Zhang, **Fudong Lin**, Yue Ning, Xu Yuan, Nian-Feng Tzeng. "Forecasting COVID-19 Spreading from Twitter Social Networks". arXiv preprint (under review).
 - **Fudong Lin**, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng, "Information-Preservable Undersampling Approach
   for Imbalanced Classification”. arXiv preprint (under review).
 - **Fudong Lin**, Yihe Zhang, Hao Wang, Brian Jalaian, Xu Yuan, and Nian-Feng Tzeng, "Towards Fast and Transferable Sparse Adversarial Attacks”, arXiv preprint (under review).
