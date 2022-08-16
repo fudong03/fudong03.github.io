@@ -41,7 +41,6 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
   Disentanglement”, In [CIKM 2022](https://www.cikm2022.org/).
 
 
-
 ### 2021
 
 6. Yi He, **Fudong Lin**, Xu Yuan, and Nian-Feng Tzeng. "Interpretable Minority Synthesis for Imbalanced Classification". In [IJCAI 2021](https://ijcai-21.org/). [[PDF](https://www.ijcai.org/proceedings/2021/0350.pdf)] [[Code](https://github.com/fudonglin/IMSIC)]
