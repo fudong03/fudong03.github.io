@@ -44,7 +44,7 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 ### 2022
 
 5\. **Fudong Lin**, Xu Yuan, Lu Peng, and Nian-Feng Tzeng, "Cascade Variational Auto-Encoder for Hierarchical
-  Disentanglement”, In [CIKM 2022](https://www.cikm2022.org/).
+  Disentanglement”, In [CIKM 2022](https://www.cikm2022.org/). [[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557254)]
 
 
 ### 2021
@@ -62,7 +62,7 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 
 # Academic Services
 
-- Reviewer for ICML 2022
+- Reviewer for ICML 2022, NeurIPS 2022 Workshop AI4Science, ICLR 2023
 
 
 
