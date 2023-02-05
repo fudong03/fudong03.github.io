@@ -32,24 +32,26 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 
 ### Preprint
 
-1\. **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". arXiv preprint (under review).
+1\. **Fudong Lin**, Xu Yuan, Nian-Feng Tzeng. "Boosting Adversarial Training with Masked Adaptive Ensemble". arXiv preprint (under review).
 
-2\. Yihe Zhang, **Fudong Lin**, Yue Ning, Xu Yuan, Nian-Feng Tzeng. "Forecasting COVID-19 Spreading from Twitter Social Networks". arXiv preprint (under review).
+2\. **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". arXiv preprint (under review).
 
-3\. **Fudong Lin**, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng, "Information-Preservable Undersampling Approach
+3\. Yihe Zhang, **Fudong Lin**, Yue Ning, Xu Yuan, Nian-Feng Tzeng. "Forecasting COVID-19 Spreading from Twitter Social Networks". arXiv preprint (under review).
+
+4\. **Fudong Lin**, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng, "Information-Preservable Undersampling Approach
   for Imbalanced Classification”. arXiv preprint (under review).
 
-4\. **Fudong Lin**, Yihe Zhang, Hao Wang, Brian Jalaian, Xu Yuan, and Nian-Feng Tzeng, "Towards Fast and Transferable Sparse Adversarial Attacks”, arXiv preprint (under review).
+5\. **Fudong Lin**, Yihe Zhang, Hao Wang, Brian Jalaian, Xu Yuan, and Nian-Feng Tzeng, "Towards Fast and Transferable Sparse Adversarial Attacks”, arXiv preprint (under review).
 
 ### 2022
 
-5\. **Fudong Lin**, Xu Yuan, Lu Peng, and Nian-Feng Tzeng, "Cascade Variational Auto-Encoder for Hierarchical
+6\. **Fudong Lin**, Xu Yuan, Lu Peng, and Nian-Feng Tzeng, "Cascade Variational Auto-Encoder for Hierarchical
   Disentanglement”, In [CIKM 2022](https://www.cikm2022.org/). [[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557254)]
 
 
 ### 2021
 
-6\. Yi He, **Fudong Lin**, Xu Yuan, and Nian-Feng Tzeng. "Interpretable Minority Synthesis for Imbalanced Classification". In [IJCAI 2021](https://ijcai-21.org/). [[PDF](https://www.ijcai.org/proceedings/2021/0350.pdf)] [[Code](https://github.com/fudonglin/IMSIC)]
+7\. Yi He, **Fudong Lin**, Xu Yuan, and Nian-Feng Tzeng. "Interpretable Minority Synthesis for Imbalanced Classification". In [IJCAI 2021](https://ijcai-21.org/). [[PDF](https://www.ijcai.org/proceedings/2021/0350.pdf)] [[Code](https://github.com/fudonglin/IMSIC)]
 
 
 
