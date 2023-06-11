@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informatics at University of Louisiana at Lafayette (ULL), advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I received my bachelor's degree from Shandong University, China, in 2016. From 2016 to 2020, I worked in the industry developing Cloud Computing and Internet of Things (IoT) applications. My research interests lie in the theory and applications of Deep Learning (DL), including DL security, DL for imbalanced classification, and DL for climate change.
+Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informatics at University of Louisiana at Lafayette (ULL), advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I received my bachelor's degree from Shandong University, China, in 2016. From 2016 to 2020, I worked in the industry developing Cloud Computing and Internet of Things (IoT) applications. My research interests lie in Deep Learning (DL), Computer Vision (CV), and AI for Science, including deep learning security, long-tailed recognition, and climate change-related applications (e.g., storm prediction, crop yield prediction, etc.).
 
 
 
@@ -18,6 +18,9 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 
 - Ph.D. student in Computer Science, 2021.01 - present
 
+  **University of Louisiana at Lafayette**,  Lafayette, LA
+
+- M.S. in Computer Science, 2023.05
   **University of Louisiana at Lafayette**,  Lafayette, LA
 
 - B.S. in Software Engineering, 2016.06
@@ -34,14 +37,16 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 
 1\. **Fudong Lin**, Xu Yuan, Nian-Feng Tzeng. "Boosting Adversarial Training with Masked Adaptive Ensemble". arXiv preprint (under review).
 
-2\. **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". arXiv preprint (under review).
+2\. Yihe Zhang, **Fudong Lin**, Yue Ning, Xu Yuan, Nian-Feng Tzeng. "Forecasting COVID-19 Spreading from Twitter Social Networks". arXiv preprint (under review).
 
-3\. Yihe Zhang, **Fudong Lin**, Yue Ning, Xu Yuan, Nian-Feng Tzeng. "Forecasting COVID-19 Spreading from Twitter Social Networks". arXiv preprint (under review).
-
-4\. **Fudong Lin**, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng, "Information-Preservable Undersampling Approach
+3\. **Fudong Lin**, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng, "Information-Preservable Undersampling Approach
   for Imbalanced Classification”. arXiv preprint (under review).
 
-5\. **Fudong Lin**, Yihe Zhang, Hao Wang, Brian Jalaian, Xu Yuan, and Nian-Feng Tzeng, "Towards Fast and Transferable Sparse Adversarial Attacks”, arXiv preprint (under review).
+4\. **Fudong Lin**, Yihe Zhang, Hao Wang, Brian Jalaian, Xu Yuan, and Nian-Feng Tzeng, "Towards Fast and Transferable Sparse Adversarial Attacks”, arXiv preprint (under review).
+
+### 2023
+
+5\. **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". In [ECML-PkDD 2023](https://2023.ecmlpkdd.org/).
 
 ### 2022
 
@@ -64,13 +69,14 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 
 # Academic Services
 
-- Reviewer for ICML 2022, NeurIPS 2022 Workshop AI4Science, ICLR 2023
+- Reviewer for ICML 2022, NeurIPS 2022 Workshop AI4Science, ICLR 2023, KDD 2023
 
 
 
 # Honors and Awards
 
 - 2022 ULL Academic Excellence Award
+- 2023 ULL Academic Excellence Award
 
 
 
