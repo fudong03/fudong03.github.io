@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informatics at University of Louisiana at Lafayette (ULL), advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I received my bachelor's degree from Shandong University, China, in 2016. From 2016 to 2020, I worked in the industry developing Cloud Computing and Internet of Things (IoT) applications. My research interests lie in Deep Learning (DL), Computer Vision (CV), and AI for Science, including deep learning security, long-tailed recognition, and climate change-related applications (e.g., storm prediction, crop yield prediction, etc.).
+Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informatics at University of Louisiana at Lafayette (ULL), advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I received my bachelor's degree from Shandong University, China, in 2016. From 2016 to 2020, I worked in the industry developing Cloud Computing and Internet of Things (IoT) applications. My research interests lie in deep learning, computer vision, and AI for Science, including deep learning security, long-tailed recognition, and climate change-related applications (e.g., storm prediction, crop yield prediction, etc.).
 
 
 
