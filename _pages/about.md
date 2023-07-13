@@ -70,14 +70,14 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 
 # Academic Services
 
-- Reviewer for ICML 2022, NeurIPS 2022 Workshop AI4Science, ICLR 2023, KDD 2023
+- Reviewer for ICML 2022, NeurIPS 2022 Workshop AI4Science, ICLR 2023, KDD 2023, NeurIPS 2023
 
 
 
 # Honors and Awards
 
-- 2022 Academic Excellence Award, Granted by University of Louisiana at Lafayette
-- 2023 Academic Excellence Award, Granted by University of Louisiana at Lafayette
+- 2022 Academic Excellence Award, issued by University of Louisiana at Lafayette
+- 2023 Academic Excellence Award, issued by University of Louisiana at Lafayette
 
 
 
@@ -85,6 +85,6 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 
 **Office:**  James Oliver Hall 352, 301 E Lewis Street, Lafayette, LA, 70503
 
-**Email:** fudong.lin1@louisiana.edu
+**Email:** fudong.lin1 at louisiana.edu
 
 **TEL:** (337)-255-0179
