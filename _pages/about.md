@@ -34,25 +34,17 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 
 # Publications
 
-### Preprint
-
-7\. **Fudong Lin**, Xu Yuan, Nian-Feng Tzeng. "Boosting Adversarial Training with Masked Adaptive Ensemble". arXiv preprint (under review).
-
-6\. Yihe Zhang, **Fudong Lin**, Yue Ning, Xu Yuan, Nian-Feng Tzeng. "Forecasting COVID-19 Spreading from Twitter Social Networks". arXiv preprint (under review).
-
-5\. **Fudong Lin**, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng, "Information-Preservable Undersampling Approach
-  for Imbalanced Classification”. arXiv preprint (under review).
-
-4\. **Fudong Lin**, Yihe Zhang, Hao Wang, Brian Jalaian, Xu Yuan, and Nian-Feng Tzeng, "Towards Fast and Transferable Sparse Adversarial Attacks”, arXiv preprint (under review).
-
 ### 2023
+
+4\. **Fudong Lin**, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, et al. "MMST-ViT: Climate
+Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer". In [ICCV 2023](https://iccv2023.thecvf.com/).
 
 3\. **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". In [ECML-PKDD 2023](https://2023.ecmlpkdd.org/).
 
 ### 2022
 
-2\. **Fudong Lin**, Xu Yuan, Lu Peng, and Nian-Feng Tzeng, "Cascade Variational Auto-Encoder for Hierarchical
-  Disentanglement”, In [CIKM 2022](https://www.cikm2022.org/). [[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557254)]
+2\. **Fudong Lin**, Xu Yuan, Lu Peng, and Nian-Feng Tzeng. "Cascade Variational Auto-Encoder for Hierarchical
+  Disentanglement”. In [CIKM 2022](https://www.cikm2022.org/). [[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557254)]
 
 
 ### 2021
