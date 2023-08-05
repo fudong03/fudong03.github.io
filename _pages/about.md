@@ -16,9 +16,9 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 
 # Education
 
-- Ph.D. student in Computer Science, 2021.01 - present
+- Ph.D. student in Computer Science, present
 
-  **University of Louisiana at Lafayette**,  Lafayette, LA
+  **University of Delaware**,  Newark, DE
 
 - M.S. in Computer Science, 2023.05
   
@@ -77,6 +77,6 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 
 **Office:**  James Oliver Hall 352, 301 E Lewis Street, Lafayette, LA, 70503
 
-**Email:** fudong.lin1 at louisiana.edu
+**Email:** fudong at udel.edu
 
 **TEL:** (337)-255-0179
