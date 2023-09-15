@@ -64,9 +64,9 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 
 # Academic Services
 
-- Reviewer for ICML 2022, NeurIPS 2022 Workshop AI4Science, ICLR 2023, KDD 2023, NeurIPS 2023
-
-
+### Reviewer
+- **2023**: [ICLR](https://iclr.cc/Conferences/2023), [KDD](https://kdd.org/kdd2023/), [NeurIPS](https://nips.cc/)
+- **2022**: [ICML](https://icml.cc/Conferences/2022), [NeurIPS AI4Science Workshop](https://ai4sciencecommunity.github.io/neurips22.html)
 
 # Honors and Awards
 
