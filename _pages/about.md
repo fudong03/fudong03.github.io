@@ -39,7 +39,9 @@ Hello, I am Fudong Lin, a third-year Ph.D. student in the Department of Computer
 4\. **Fudong Lin**, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, et al. "MMST-ViT: Climate
 Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer". In [ICCV 2023](https://iccv2023.thecvf.com/).
 
-3\. **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". In [ECML-PKDD 2023](https://2023.ecmlpkdd.org/).
+3\. **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". In [ECML-PKDD 2023](https://2023.ecmlpkdd.org/). [[PDF]()] 
+[[Slides](https://docs.google.com/presentation/d/1bOnVm6DX1P_L1td_S2W1Ojx4hBDzuPKc/edit?usp=drive_link&ouid=103745443181082855630&rtpof=true&sd=true)] 
+[[Poster](https://drive.google.com/file/d/1sqW-D1g7xkcxk2oUXqPOv_sgWH--pH0t/view?usp=drive_link)]
 
 ### 2022
 
