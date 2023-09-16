@@ -36,7 +36,7 @@ Hello, I am Fudong Lin, a third-year Ph.D. student in the Department of Computer
 
 ### 2023
 
-4\. **Fudong Lin**, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, et al. "MMST-ViT: Climate
+4\. **Fudong Lin**, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, Li Chen, Shelby Willams, Robert Minvielle, Xiangming Xiao, Drew M Gholson, Nicolas Quintana Ashwell, Tri Setiyono, Brenda Tubana, Lu Peng, Magdy Bayoumi, Nian-Feng Tzeng. "MMST-ViT: Climate
 Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer". In [ICCV 2023](https://iccv2023.thecvf.com/). [[PDF](https://drive.google.com/file/d/1xc_8KkOxVUVsHUiz9Vgv1nqqOa2O_t-2/view?usp=drive_link)]
 [[Code](https://github.com/fudong03/MMST-ViT)]
 
