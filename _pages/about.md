@@ -38,7 +38,8 @@ Hello, I am Fudong Lin, a third-year Ph.D. student in the Department of Computer
 
 4\. **Fudong Lin**, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, Li Chen, Shelby Williams, Robert Minvielle, Xiangming Xiao, Drew M Gholson, Nicolas Quintana Ashwell, Tri Setiyono, Brenda Tubana, Lu Peng, Magdy Bayoumi, Nian-Feng Tzeng. "MMST-ViT: Climate
 Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer". In [ICCV 2023](https://iccv2023.thecvf.com/). [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_MMST-ViT_Climate_Change-aware_Crop_Yield_Prediction_via_Multi-Modal_Spatial-Temporal_Vision_ICCV_2023_paper.pdf)]
-[[Code](https://github.com/fudong03/MMST-ViT)] 
+[[Code](https://github.com/fudong03/MMST-ViT)]
+[[Dataset](https://huggingface.co/datasets/fudong03/Tiny-CropNet/tree/main)]
 [[Poster](https://drive.google.com/file/d/13qprtxue-jmps9MYMg8lEnEgrXVlmuSh/view?usp=drive_link)]
 
 3\. **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". In [ECML-PKDD 2023](https://2023.ecmlpkdd.org/). [[PDF](https://drive.google.com/file/d/16tmlKF7rH3F43FwGr7Ib0O0EOMoakJgL/view?usp=drive_link)] 
@@ -83,5 +84,3 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 **Office:**  Smith Hall, 18 Amstel Ave, Newark, DE 19716
 
 **Email:** fudong at udel.edu
-
-**TEL:** (337)-255-0179
