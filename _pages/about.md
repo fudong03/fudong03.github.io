@@ -10,7 +10,8 @@ redirect_from:
 
 # About
 
-Hello, I am Fudong Lin, a third-year Ph.D. student in the Department of Computer & Information Sciences at University of Delaware, advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I received my bachelor's degree from Shandong University, China, in 2016. From 2016 to 2020, I worked in the industry developing Cloud Computing and Internet of Things (IoT) applications. My research interests lie in deep learning, computer vision, and AI for Science, including deep learning security, long-tailed recognition, and climate change-related applications (e.g., storm prediction, crop yield prediction, etc.).
+Hello, I am Fudong Lin, a fourth-year Ph.D. student in the Department of Computer & Information Sciences at University of Delaware, advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I received my bachelor's degree from Shandong University, China, in 2016. From 2016 to 2020, I worked in the industry developing Cloud Computing and Internet of Things (IoT) applications. My research interests lie in Deep Learning, Computer Vision, and AI for Science,
+including deep learning security, long-tailed recognition, and climate change-related applications (e.g., storm prediction, crop yield prediction, etc.).
 
 
 
@@ -36,7 +37,7 @@ Hello, I am Fudong Lin, a third-year Ph.D. student in the Department of Computer
 
 ### 2023
 
-4\. **Fudong Lin**, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, Li Chen, Shelby Williams, Robert Minvielle, Xiangming Xiao, Drew M Gholson, Nicolas Quintana Ashwell, Tri Setiyono, Brenda Tubana, Lu Peng, Magdy Bayoumi, Nian-Feng Tzeng. "MMST-ViT: Climate
+4\. **Fudong Lin**, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, Nian-Feng Tzeng, et. al. "MMST-ViT: Climate
 Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer". In [ICCV 2023](https://iccv2023.thecvf.com/). [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_MMST-ViT_Climate_Change-aware_Crop_Yield_Prediction_via_Multi-Modal_Spatial-Temporal_Vision_ICCV_2023_paper.pdf)]
 [[Code](https://github.com/fudong03/MMST-ViT)]
 [[Dataset](https://huggingface.co/datasets/fudong03/Tiny-CropNet/tree/main)]
@@ -69,8 +70,9 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 # Academic Services
 
 ### Reviewer
-- **2023**: [ICLR](https://iclr.cc/Conferences/2023), [KDD](https://kdd.org/kdd2023/), [NeurIPS](https://nips.cc/)
-- **2022**: [ICML](https://icml.cc/Conferences/2022), [NeurIPS AI4Science Workshop](https://ai4sciencecommunity.github.io/neurips22.html)
+- **2024**: CVPR, ECCV, ICLR, ICML, KDD, SDM
+- **2023**: NeurIPS, ICLR, KDD, NeurIPS AI4Science Workshop
+- **2022**: ICML, NeurIPS AI4Science Workshop
 
 # Honors and Awards
 
