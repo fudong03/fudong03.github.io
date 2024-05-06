@@ -10,8 +10,7 @@ redirect_from:
 
 # About
 
-Hello, I am Fudong Lin, a fourth-year Ph.D. student in the Department of Computer & Information Sciences at University of Delaware, advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I received my bachelor's degree from Shandong University, China, in 2016. From 2016 to 2020, I worked in the industry developing Cloud Computing and Internet of Things (IoT) applications. My research interests lie in Deep Learning, Computer Vision, and AI for Science,
-including deep learning security, long-tailed recognition, and climate change-related applications (e.g., storm prediction, crop yield prediction, etc.).
+Hello, I'm a fourth-year Ph.D. student in the Department of Computer & Information Sciences at the University of Delaware, where I'm advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I earned my Bachelor's degree from Shandong University, China in 2016. Before pursuing my graduate studies, I spent four years in the industry developing Cloud Computing and Internet of Things (IoT) applications. I began my graduate studies in 2021 and received my Master's degree from the University of Louisiana at Lafayette in 2023. I then transferred to the University of Delaware to continue my Ph.D. research. My research interest focuses on Trustworthy AI (e.g., Explainable AI), AI Fairness (e.g., Long-tailed Recognition), and AI for Science.
 
 
 
@@ -75,9 +74,9 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 - **2022**: ICML, NeurIPS AI4Science Workshop
 
 # Honors and Awards
-
-- 2022 Academic Excellence Award, issued by University of Louisiana at Lafayette
+- 2024 CIS Distinguished Graduate Student Award, issued by University of Delaware
 - 2023 Academic Excellence Award, issued by University of Louisiana at Lafayette
+- 2022 Academic Excellence Award, issued by University of Louisiana at Lafayette
 
 
 
