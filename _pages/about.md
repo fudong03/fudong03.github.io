@@ -40,7 +40,7 @@ Hello, I'm a fourth-year Ph.D. student in the Department of Computer & Informati
 [[Dataset](https://huggingface.co/datasets/CropNet/CropNet)]
 [[Code](https://github.com/fudonglin/CropNet)]
 [[Tutorials](https://github.com/fudonglin/CropNet?tab=readme-ov-file#tutorials)]
-[[PyPI API](https://pypi.org/project/cropnet/)]
+[[PyPI](https://pypi.org/project/cropnet/)]
 
 
 ### 2023
