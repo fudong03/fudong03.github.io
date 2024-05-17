@@ -34,6 +34,15 @@ Hello, I'm a fourth-year Ph.D. student in the Department of Computer & Informati
 
 # Publications
 
+### 2024
+
+5\. **Fudong Lin**, Kaleb Guillot, Summer Crawford, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng. "An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions". In [KDD 2024](https://kdd2024.kdd.org/). [[PDF]()]
+[[Dataset](https://huggingface.co/datasets/CropNet/CropNet)]
+[[Code](https://github.com/fudonglin/CropNet)]
+[[Tutorials](https://github.com/fudonglin/CropNet?tab=readme-ov-file#tutorials)]
+[[PyPI API](https://pypi.org/project/cropnet/)]
+
+
 ### 2023
 
 4\. **Fudong Lin**, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, Nian-Feng Tzeng, et. al. "MMST-ViT: Climate
