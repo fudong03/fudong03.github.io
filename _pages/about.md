@@ -35,6 +35,7 @@ Hello, I'm a fourth-year Ph.D. student in the Department of Computer & Informati
 # Publications
 
 ### 2024
+6\. **Fudong Lin**, Jiadong Lou, Xu Yuan, and Nian-Feng Tzeng. "Towards Robust Vision Transformer via Masked Adaptive Ensemble". In [CIKM 2024](https://cikm2024.org/).
 
 5\. **Fudong Lin**, Kaleb Guillot, Summer Crawford, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng. "An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions". In [KDD 2024](https://kdd2024.kdd.org/). [[PDF]()]
 [[Dataset](https://huggingface.co/datasets/CropNet/CropNet)]
