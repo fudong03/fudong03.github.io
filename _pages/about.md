@@ -10,13 +10,13 @@ redirect_from:
 
 # About
 
-Hello, I'm a fourth-year Ph.D. student in the Department of Computer & Information Sciences at the University of Delaware, where I'm advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I earned my Bachelor's degree from Shandong University, China in 2016. Before pursuing my graduate studies, I spent four years in the industry developing Cloud Computing and Internet of Things (IoT) applications. I began my graduate studies in 2021 and received my Master's degree from the University of Louisiana at Lafayette in 2023. I then transferred to the University of Delaware to continue my Ph.D. research. My research interest focuses on Trustworthy AI (e.g., Explainable AI), AI Fairness (e.g., Long-tailed Recognition), and AI for Science.
+Hello, I received my Ph.D. degree from the Department of Computer & Information Sciences at the University of Delaware in 2024, where I was advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). My current research interest focuses on Computer Vision and Multi-modal Learning.
 
 
 
 # Education
 
-- Ph.D. student in Computer Science, present
+- Ph.D. in Computer Science, 2024.12
 
   **University of Delaware**,  Newark, DE
 
@@ -35,9 +35,9 @@ Hello, I'm a fourth-year Ph.D. student in the Department of Computer & Informati
 # Publications
 
 ### 2024
-6\. **Fudong Lin**, Jiadong Lou, Xu Yuan, and Nian-Feng Tzeng. "Towards Robust Vision Transformer via Masked Adaptive Ensemble". In [CIKM 2024](https://cikm2024.org/).
+6\. **Fudong Lin**, Jiadong Lou, Xu Yuan, and Nian-Feng Tzeng. "Towards Robust Vision Transformer via Masked Adaptive Ensemble". In [CIKM 2024](https://cikm2024.org/). [[PDF](https://dl.acm.org/doi/10.1145/3627673.3679750)]
 
-5\. **Fudong Lin**, Kaleb Guillot, Summer Crawford, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng. "An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions". In [KDD 2024](https://kdd2024.kdd.org/). [[PDF]()]
+5\. **Fudong Lin**, Kaleb Guillot, Summer Crawford, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng. "An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions". In [KDD 2024](https://kdd2024.kdd.org/). [[PDF](https://dl.acm.org/doi/10.1145/3637528.3671536)]
 [[Dataset](https://huggingface.co/datasets/CropNet/CropNet)]
 [[Code](https://github.com/fudonglin/CropNet)]
 [[Tutorials](https://github.com/fudonglin/CropNet?tab=readme-ov-file#tutorials)]
@@ -79,11 +79,13 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 # Academic Services
 
 ### Reviewer
+- **2025**: ICLR, KDD, CPVP, ICML, ICCV
 - **2024**: CVPR, ECCV, ICLR, ICML, KDD, SDM
 - **2023**: NeurIPS, ICLR, KDD, NeurIPS AI4Science Workshop
 - **2022**: ICML, NeurIPS AI4Science Workshop
 
 # Honors and Awards
+- 2024 CoE Graduate Student Excellence in Research (Nominee), University of Delaware
 - 2024 CIS Distinguished Graduate Student Award, issued by University of Delaware
 - 2023 Academic Excellence Award, issued by University of Louisiana at Lafayette
 - 2022 Academic Excellence Award, issued by University of Louisiana at Lafayette
