@@ -79,7 +79,7 @@ CN 108024144 A, filed November 28, 2017, and issued July 10, 2020. [[PDF](https:
 # Academic Services
 
 ### Reviewer
-- **2025**: ICLR, KDD, CPVP, ICML, ICCV
+- **2025**: ICLR, ICML, CVPR, ICCV, AAAI, KDD 
 - **2024**: CVPR, ECCV, ICLR, ICML, KDD, SDM
 - **2023**: NeurIPS, ICLR, KDD, NeurIPS AI4Science Workshop
 - **2022**: ICML, NeurIPS AI4Science Workshop
