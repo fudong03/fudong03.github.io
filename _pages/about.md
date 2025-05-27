@@ -41,9 +41,9 @@ Hello, I received my Ph.D. degree from the Department of Computer & Information 
 [[Code](https://github.com/Tiankuo528/BoneMet)]
 [[PyPI](https://pypi.org/project/BoneMet/)]
 
-8\. **Fudong Lin**, Jiadong Lou, Hao Wang, Brian Jalaian, and Xu Yuan. "Towards Interpretable Adversarial Examples via Sparse Adversarial Attack". In [ECML-PKDD](https://ecmlpkdd.org/2025/). [[PDF]()]
+8\. **Fudong Lin**, Jiadong Lou, Hao Wang, Brian Jalaian, and Xu Yuan. "Towards Interpretable Adversarial Examples via Sparse Adversarial Attack". In [ECML-PKDD 2025](https://ecmlpkdd.org/2025/). [[PDF]()]
 
-7\. **Fudong Lin**, Wanrou Du, Jinchan Liu, Tarikul Milon, Shelby Meche, Wu Xu, Xiaoqi Qin, and Xu Yuan. "Do Protein Transformers Have Biological Intelligence?". In [ECML-PKDD](https://ecmlpkdd.org/2025/). [[PDF]()]
+7\. **Fudong Lin**, Wanrou Du, Jinchan Liu, Tarikul Milon, Shelby Meche, Wu Xu, Xiaoqi Qin, and Xu Yuan. "Do Protein Transformers Have Biological Intelligence?". In [ECML-PKDD 2025](https://ecmlpkdd.org/2025/). [[PDF]()]
 [[Datasets](https://huggingface.co/datasets/Protein-FN/Protein-FN)]
 
 ### 2024
