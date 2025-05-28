@@ -44,6 +44,7 @@ Hello, I received my Ph.D. degree from the Department of Computer & Information 
 8\. **Fudong Lin**, Jiadong Lou, Hao Wang, Brian Jalaian, and Xu Yuan. "Towards Interpretable Adversarial Examples via Sparse Adversarial Attack". In [ECML-PKDD 2025](https://ecmlpkdd.org/2025/). [[PDF]()]
 
 7\. **Fudong Lin**, Wanrou Du, Jinchan Liu, Tarikul Milon, Shelby Meche, Wu Xu, Xiaoqi Qin, and Xu Yuan. "Do Protein Transformers Have Biological Intelligence?". In [ECML-PKDD 2025](https://ecmlpkdd.org/2025/). [[PDF]()]
+[[Code](https://github.com/fudong03/BioIntelligence)]
 [[Dataset](https://huggingface.co/datasets/Protein-FN/Protein-FN)]
 
 ### 2024
