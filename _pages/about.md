@@ -44,10 +44,14 @@ Hello, I received my Ph.D. degree from the Department of Computer & Information 
 8\. **Fudong Lin**, Jiadong Lou, Hao Wang, Brian Jalaian, and Xu Yuan. "Towards Interpretable Adversarial Examples via Sparse Adversarial Attack". In [ECML-PKDD 2025](https://ecmlpkdd.org/2025/). 
 [[PDF](https://arxiv.org/pdf/2506.06701?)]
 [[Code](https://github.com/fudong03/SparseAttack)]
+[[Slides](https://docs.google.com/presentation/d/1LgGMbMjB_r3EQpF6y11SC7mYAMVdI4DK/edit?usp=drive_link&ouid=103745443181082855630&rtpof=true&sd=true)]
+[[Poster](https://docs.google.com/presentation/d/1_kBXb4Q8buEpAWsEN9UTl2vFj5--8vBZ/edit?usp=drive_link&ouid=103745443181082855630&rtpof=true&sd=true)]
 
 7\. **Fudong Lin**, Wanrou Du, Jinchan Liu, Tarikul Milon, Shelby Meche, Wu Xu, Xiaoqi Qin, and Xu Yuan. "Do Protein Transformers Have Biological Intelligence?". In [ECML-PKDD 2025](https://ecmlpkdd.org/2025/). [[PDF](https://arxiv.org/pdf/2506.17250)]
 [[Code](https://github.com/fudong03/BioIntelligence)]
 [[Dataset](https://huggingface.co/datasets/Protein-FN/Protein-FN)]
+[[Slides](https://docs.google.com/presentation/d/1NqiNDX63RVaf65hdudLWv0IjBPwMzoTD/edit?usp=drive_link&ouid=103745443181082855630&rtpof=true&sd=true)]
+[[Poster](https://docs.google.com/presentation/d/1bq45-oVMF2Ik6p7Qwe2doui_3HJborii/edit?usp=drive_link&ouid=103745443181082855630&rtpof=true&sd=true)]
 
 ### 2024
 6\. **Fudong Lin**, Jiadong Lou, Xu Yuan, and Nian-Feng Tzeng. "Towards Robust Vision Transformer via Masked Adaptive Ensemble". In [CIKM 2024](https://cikm2024.org/). [[PDF](https://dl.acm.org/doi/10.1145/3627673.3679750)]
