@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-Hello, I am an Applied Scientist at Amazon. My current research focuses on Multi-Modal Learning, Retrieval Augmented Generation (RAG), and Agent Memory. I received my Ph.D. degree in Computer & Information Sciences from the University of Delaware in 2024, under the supervision of [Dr. Xu Yuan](https://yuanxuyx.github.io/). Before that, I earned my M.S. degree from the University of Louisiana at Lafayette and my B.S. degree from Shandong University.
+Hello, I am an Applied Scientist at Amazon. My current research focuses on Multi-Modal Learning, Retrieval-Augmented Generation (RAG), and Agent Memory. I received my Ph.D. degree in Computer & Information Sciences from the University of Delaware in 2024, under the supervision of [Dr. Xu Yuan](https://yuanxuyx.github.io/). Before that, I earned my M.S. degree from the University of Louisiana at Lafayette and my B.S. degree from Shandong University.
 
 
 
