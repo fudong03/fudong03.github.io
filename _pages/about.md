@@ -35,7 +35,9 @@ Hello, I received my Ph.D. degree from the Department of Computer & Information 
 # Publications
 
 ### 2025
-9\. Tiankuo Chu, **Fudong Lin**, Shubo Wang, Jason Jiang, Wiley Jia-Wei Gong, Xu Yuan, Liyun Wang. "BoneMet: An Open Large-Scale Multi-Modal Murine Dataset for Breast Cancer Bone Metastasis Diagnosis and Prognosis". In [ICLR 2025](https://iclr.cc/Conferences/2025). 
+10\. **Fudong Lin** and Xu Yuan, "Long-Tailed Recognition via Information-Preservable Two-Stage Learning". In [NeurIPS 2025](https://neurips.cc/Conferences/2025) **(Spotlight, Top 3.5%)**.
+
+9\. Tiankuo Chu, **Fudong Lin**, Shubo Wang, Jason Jiang, Wiley Jia-Wei Gong, Xu Yuan, and Liyun Wang. "BoneMet: An Open Large-Scale Multi-Modal Murine Dataset for Breast Cancer Bone Metastasis Diagnosis and Prognosis". In [ICLR 2025](https://iclr.cc/Conferences/2025). 
 [[PDF](https://openreview.net/pdf?id=YH4M1Tbxfz)]
 [[Dataset](https://huggingface.co/datasets/BoneMet/BoneMet)]
 [[Code](https://github.com/Tiankuo528/BoneMet)]
