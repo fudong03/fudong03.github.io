@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-Hello, I received my Ph.D. degree from the Department of Computer & Information Sciences at the University of Delaware in 2024, where I was advised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). My current research interest focuses on Computer Vision and Multi-modal Learning.
+Hello, I am an Applied Scientist at Amazon. My current research focuses on Multi-Modal Learning, Retrieval Augmented Generation (RAG), and Agent Memory. I received my Ph.D. degree in Computer & Information Sciences from the University of Delaware in 2024, under the supervision of [Dr. Xu Yuan](https://yuanxuyx.github.io/). Before that, I earned my M.S. degree from the University of Louisiana at Lafayette and my B.S. degree from Shandong University.
 
 
 
@@ -35,7 +35,7 @@ Hello, I received my Ph.D. degree from the Department of Computer & Information 
 # Publications
 
 ### 2025
-10\. **Fudong Lin** and Xu Yuan, "Long-Tailed Recognition via Information-Preservable Two-Stage Learning". In [NeurIPS 2025](https://neurips.cc/Conferences/2025) **(Spotlight, Top 3.5%)**.
+10\. **Fudong Lin** and Xu Yuan, "Long-Tailed Recognition via Information-Preservable Two-Stage Learning". In [NeurIPS 2025](https://neurips.cc/Conferences/2025) **(Spotlight)**.
 
 9\. Tiankuo Chu, **Fudong Lin**, Shubo Wang, Jason Jiang, Wiley Jia-Wei Gong, Xu Yuan, and Liyun Wang. "BoneMet: An Open Large-Scale Multi-Modal Murine Dataset for Breast Cancer Bone Metastasis Diagnosis and Prognosis". In [ICLR 2025](https://iclr.cc/Conferences/2025). 
 [[PDF](https://openreview.net/pdf?id=YH4M1Tbxfz)]
